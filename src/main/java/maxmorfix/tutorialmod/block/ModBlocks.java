@@ -16,6 +16,8 @@ public class ModBlocks {
 
     public static final Block RUBY_BLOCK = registerBlock("ruby_block",
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.SLIME)));
+    public static final Block TITOZHE_BLOCK = registerBlock("titozhe_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.STONE)));
 
     private static Block registerBlock(String name, Block block) {
 

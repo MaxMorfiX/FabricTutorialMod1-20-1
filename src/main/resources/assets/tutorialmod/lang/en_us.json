@@ -4,5 +4,6 @@
 
   "itemgroups.mod": "My group",
 
-  "block.tutorialmod.ruby_block": "блок Вовы"
+  "block.tutorialmod.ruby_block": "блок Вовы",
+  "block.tutorialmod.titozhe_block": "блок Ты Тоже"
 }
